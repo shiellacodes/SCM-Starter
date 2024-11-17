@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@metamask/providers": "^10.2.1",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.15",
+    "next": "^13.5.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "name": "hardhat-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
